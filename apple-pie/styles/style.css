@@ -1,0 +1,59 @@
+#mainpic {
+
+}
+
+section {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.margin {
+    margin-left: 170px;
+    margin-right: 170px;
+}
+
+h1 {
+    color: white;
+    font-size: 90px;
+    font-family: Raleway;
+    font-weight: 400;
+    position: relative;
+    top: 530px;
+    left: 500px;
+    margin: 0px;
+}
+
+h2 {
+    font-family: Raleway;
+    font-weight: 600;
+    font-size: 30px;
+
+}
+
+.text {
+    font-family: Raleway;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: justify;
+}
+
+.text1 {
+    font-family: Raleway;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: justify;
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.lines {
+    height: 5px;
+    background-color: lightgrey;
+    border: none;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
